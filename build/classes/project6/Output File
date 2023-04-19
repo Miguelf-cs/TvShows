@@ -1,0 +1,174 @@
+run:
+Before Sorting: 
+Name: Timeless, Year premiered: 2016, Seasons: 2, Episodes: 28, Network: NBC, Genre: Science Fiction, Male lead: Matt Lanter, Female lead: Abigal Spencer
+Name: Travelers, Year premiered: 2016, Seasons: 3, Episodes: 34, Network: Netflix, Genre: Science Fiction, Male lead: Eric McCormak, Female lead: MacKenzie Porter
+Name: Zoo, Year premiered: 2015, Seasons: 3, Episodes: 39, Network: CBS, Genre: Science Fiction, Male lead: James Wolk, Female lead: Kristen Connolly
+Name: Agent Carter, Year premiered: 2015, Seasons: 2, Episodes: 18, Network: ABC, Genre: Drama, Male lead: James D'Arcy, Female lead: Hayley Atwell
+Name: A-Team, Year premiered: 1983, Seasons: 5, Episodes: 98, Network: NBC, Genre: Drama, Male lead: George Peppard, Female lead: Melinda Culea
+Name: Ally McBeal, Year premiered: 1997, Seasons: 5, Episodes: 112, Network: Fox, Genre: Comedy, Male lead: Greg Germann, Female lead: Calista Flockhart
+Name: B.J. and the Bear, Year premiered: 1978, Seasons: 3, Episodes: 46, Network: NBC, Genre: Drama, Male lead: Greg Evigan, Female lead: Jant Julian
+Name: Blossom, Year premiered: 1990, Seasons: 5, Episodes: 114, Network: NBC, Genre: Comedy, Male lead: Joey Lawrence, Female lead: Mayim Bialik
+Name: Big Bang Theory, Year premiered: 2007, Seasons: 12, Episodes: 279, Network: CBS, Genre: Comedy, Male lead: Johnny Galecki, Female lead: Kaley Cuoco
+Name: Charmed, Year premiered: 1998, Seasons: 8, Episodes: 178, Network: WB, Genre: Fantasy, Male lead: Brian Krause, Female lead: Alyssa Milano
+Name: Covert Affairs, Year premiered: 2010, Seasons: 5, Episodes: 75, Network: USA, Genre: Drama, Male lead: Christopher Goram, Female lead: Piper Perabo
+Name: Walker Texas Ranger, Year premiered: 1993, Seasons: 9, Episodes: 205, Network: CBS, Genre: Western, Male lead: Chuck Norris, Female lead: Nia Peeples
+Name: In Plain Sight, Year premiered: 2008, Seasons: 5, Episodes: 61, Network: USA, Genre: Crime Drama, Male lead: Fred Weller, Female lead: Mary McCormack
+Name: Star Trek, Year premiered: 1966, Seasons: 3, Episodes: 79, Network: NBC, Genre: Science Fiction, Male lead: Willliam Shatner, Female lead: Nichelle Nichols
+Name: Vampire Diaries, Year premiered: 2009, Seasons: 8, Episodes: 171, Network: CW, Genre: Fantasy, Male lead: Paul Wesley, Female lead: Nina Dobrev
+Name: White Collar, Year premiered: 2009, Seasons: 6, Episodes: 81, Network: USA, Genre: Drama, Male lead: Matt Bomer, Female lead: Tiffani Thiessen
+Name: King & Maxwell, Year premiered: 2013, Seasons: 1, Episodes: 10, Network: TNT, Genre: Crime Drama, Male lead: Jon Tenney, Female lead: Rebecca Romijn
+Name: Lincoln Rhyme, Year premiered: 2020, Seasons: 1, Episodes: 10, Network: NBC, Genre: Crime Drama, Male lead: Russell Hornsby, Female lead: Arielle Kebbel
+Name: Grimm, Year premiered: 2011, Seasons: 6, Episodes: 123, Network: NBC, Genre: Fantasy, Male lead: David Giuntoli, Female lead: Elizabeth Tulloch
+Name: Necessary Roughness, Year premiered: 2011, Seasons: 3, Episodes: 38, Network: USA, Genre: Drama, Male lead: Marc Blucas, Female lead: Callie Thorne
+
+Sorted by Show Title - Ascending:
+NAME: A-Team, Year Premiered: 1983, Male lead: George Peppard, Female lead: Melinda Culea
+NAME: Agent Carter, Year Premiered: 2015, Male lead: James D'Arcy, Female lead: Hayley Atwell
+NAME: Ally McBeal, Year Premiered: 1997, Male lead: Greg Germann, Female lead: Calista Flockhart
+NAME: B.J. and the Bear, Year Premiered: 1978, Male lead: Greg Evigan, Female lead: Jant Julian
+NAME: Big Bang Theory, Year Premiered: 2007, Male lead: Johnny Galecki, Female lead: Kaley Cuoco
+NAME: Blossom, Year Premiered: 1990, Male lead: Joey Lawrence, Female lead: Mayim Bialik
+NAME: Charmed, Year Premiered: 1998, Male lead: Brian Krause, Female lead: Alyssa Milano
+NAME: Covert Affairs, Year Premiered: 2010, Male lead: Christopher Goram, Female lead: Piper Perabo
+NAME: Grimm, Year Premiered: 2011, Male lead: David Giuntoli, Female lead: Elizabeth Tulloch
+NAME: In Plain Sight, Year Premiered: 2008, Male lead: Fred Weller, Female lead: Mary McCormack
+NAME: King & Maxwell, Year Premiered: 2013, Male lead: Jon Tenney, Female lead: Rebecca Romijn
+NAME: Lincoln Rhyme, Year Premiered: 2020, Male lead: Russell Hornsby, Female lead: Arielle Kebbel
+NAME: Necessary Roughness, Year Premiered: 2011, Male lead: Marc Blucas, Female lead: Callie Thorne
+NAME: Star Trek, Year Premiered: 1966, Male lead: Willliam Shatner, Female lead: Nichelle Nichols
+NAME: Timeless, Year Premiered: 2016, Male lead: Matt Lanter, Female lead: Abigal Spencer
+NAME: Travelers, Year Premiered: 2016, Male lead: Eric McCormak, Female lead: MacKenzie Porter
+NAME: Vampire Diaries, Year Premiered: 2009, Male lead: Paul Wesley, Female lead: Nina Dobrev
+NAME: Walker Texas Ranger, Year Premiered: 1993, Male lead: Chuck Norris, Female lead: Nia Peeples
+NAME: White Collar, Year Premiered: 2009, Male lead: Matt Bomer, Female lead: Tiffani Thiessen
+NAME: Zoo, Year Premiered: 2015, Male lead: James Wolk, Female lead: Kristen Connolly
+
+Sorted by Seasons - Descending:
+Name: Big Bang Theory, Year Premiered: 2007, SEASONS: 12
+Name: Walker Texas Ranger, Year Premiered: 1993, SEASONS: 9
+Name: Vampire Diaries, Year Premiered: 2009, SEASONS: 8
+Name: Charmed, Year Premiered: 1998, SEASONS: 8
+Name: Grimm, Year Premiered: 2011, SEASONS: 6
+Name: White Collar, Year Premiered: 2009, SEASONS: 6
+Name: In Plain Sight, Year Premiered: 2008, SEASONS: 5
+Name: Covert Affairs, Year Premiered: 2010, SEASONS: 5
+Name: Blossom, Year Premiered: 1990, SEASONS: 5
+Name: Ally McBeal, Year Premiered: 1997, SEASONS: 5
+Name: A-Team, Year Premiered: 1983, SEASONS: 5
+Name: Necessary Roughness, Year Premiered: 2011, SEASONS: 3
+Name: Star Trek, Year Premiered: 1966, SEASONS: 3
+Name: B.J. and the Bear, Year Premiered: 1978, SEASONS: 3
+Name: Zoo, Year Premiered: 2015, SEASONS: 3
+Name: Travelers, Year Premiered: 2016, SEASONS: 3
+Name: Agent Carter, Year Premiered: 2015, SEASONS: 2
+Name: Timeless, Year Premiered: 2016, SEASONS: 2
+Name: Lincoln Rhyme, Year Premiered: 2020, SEASONS: 1
+Name: King & Maxwell, Year Premiered: 2013, SEASONS: 1
+
+Sorted by Year Premiered - Ascending:
+Name: Star Trek, YEAR PREMIERED: 1966, Seasons: 3
+Name: B.J. and the Bear, YEAR PREMIERED: 1978, Seasons: 3
+Name: A-Team, YEAR PREMIERED: 1983, Seasons: 5
+Name: Blossom, YEAR PREMIERED: 1990, Seasons: 5
+Name: Walker Texas Ranger, YEAR PREMIERED: 1993, Seasons: 9
+Name: Ally McBeal, YEAR PREMIERED: 1997, Seasons: 5
+Name: Charmed, YEAR PREMIERED: 1998, Seasons: 8
+Name: Big Bang Theory, YEAR PREMIERED: 2007, Seasons: 12
+Name: In Plain Sight, YEAR PREMIERED: 2008, Seasons: 5
+Name: White Collar, YEAR PREMIERED: 2009, Seasons: 6
+Name: Vampire Diaries, YEAR PREMIERED: 2009, Seasons: 8
+Name: Covert Affairs, YEAR PREMIERED: 2010, Seasons: 5
+Name: Necessary Roughness, YEAR PREMIERED: 2011, Seasons: 3
+Name: Grimm, YEAR PREMIERED: 2011, Seasons: 6
+Name: King & Maxwell, YEAR PREMIERED: 2013, Seasons: 1
+Name: Agent Carter, YEAR PREMIERED: 2015, Seasons: 2
+Name: Zoo, YEAR PREMIERED: 2015, Seasons: 3
+Name: Travelers, YEAR PREMIERED: 2016, Seasons: 3
+Name: Timeless, YEAR PREMIERED: 2016, Seasons: 2
+Name: Lincoln Rhyme, YEAR PREMIERED: 2020, Seasons: 1
+
+Sorted by Genre - Descending:
+Name: Walker Texas Ranger, Episodes: 205, GENRE: Western
+Name: Timeless, Episodes: 28, GENRE: Science Fiction
+Name: Zoo, Episodes: 39, GENRE: Science Fiction
+Name: Travelers, Episodes: 34, GENRE: Science Fiction
+Name: Star Trek, Episodes: 79, GENRE: Science Fiction
+Name: Charmed, Episodes: 178, GENRE: Fantasy
+Name: Vampire Diaries, Episodes: 171, GENRE: Fantasy
+Name: Grimm, Episodes: 123, GENRE: Fantasy
+Name: White Collar, Episodes: 81, GENRE: Drama
+Name: Agent Carter, Episodes: 18, GENRE: Drama
+Name: Covert Affairs, Episodes: 75, GENRE: Drama
+Name: Necessary Roughness, Episodes: 38, GENRE: Drama
+Name: A-Team, Episodes: 98, GENRE: Drama
+Name: B.J. and the Bear, Episodes: 46, GENRE: Drama
+Name: King & Maxwell, Episodes: 10, GENRE: Crime Drama
+Name: In Plain Sight, Episodes: 61, GENRE: Crime Drama
+Name: Lincoln Rhyme, Episodes: 10, GENRE: Crime Drama
+Name: Big Bang Theory, Episodes: 279, GENRE: Comedy
+Name: Ally McBeal, Episodes: 112, GENRE: Comedy
+Name: Blossom, Episodes: 114, GENRE: Comedy
+
+Sorted by Network - Descending:
+Name: Charmed, Year Premiered: 1998, Seasons: 8, NETWORK: WB
+Name: In Plain Sight, Year Premiered: 2008, Seasons: 5, NETWORK: USA
+Name: Necessary Roughness, Year Premiered: 2011, Seasons: 3, NETWORK: USA
+Name: Covert Affairs, Year Premiered: 2010, Seasons: 5, NETWORK: USA
+Name: White Collar, Year Premiered: 2009, Seasons: 6, NETWORK: USA
+Name: King & Maxwell, Year Premiered: 2013, Seasons: 1, NETWORK: TNT
+Name: Travelers, Year Premiered: 2016, Seasons: 3, NETWORK: Netflix
+Name: Blossom, Year Premiered: 1990, Seasons: 5, NETWORK: NBC
+Name: Lincoln Rhyme, Year Premiered: 2020, Seasons: 1, NETWORK: NBC
+Name: B.J. and the Bear, Year Premiered: 1978, Seasons: 3, NETWORK: NBC
+Name: A-Team, Year Premiered: 1983, Seasons: 5, NETWORK: NBC
+Name: Grimm, Year Premiered: 2011, Seasons: 6, NETWORK: NBC
+Name: Star Trek, Year Premiered: 1966, Seasons: 3, NETWORK: NBC
+Name: Timeless, Year Premiered: 2016, Seasons: 2, NETWORK: NBC
+Name: Ally McBeal, Year Premiered: 1997, Seasons: 5, NETWORK: Fox
+Name: Vampire Diaries, Year Premiered: 2009, Seasons: 8, NETWORK: CW
+Name: Big Bang Theory, Year Premiered: 2007, Seasons: 12, NETWORK: CBS
+Name: Zoo, Year Premiered: 2015, Seasons: 3, NETWORK: CBS
+Name: Walker Texas Ranger, Year Premiered: 1993, Seasons: 9, NETWORK: CBS
+Name: Agent Carter, Year Premiered: 2015, Seasons: 2, NETWORK: ABC
+
+Sorted by Episodes - Ascending:
+Name: Lincoln Rhyme, Year Premiered: 2020, EPISODES: 10, Network: NBC
+Name: King & Maxwell, Year Premiered: 2013, EPISODES: 10, Network: TNT
+Name: Agent Carter, Year Premiered: 2015, EPISODES: 18, Network: ABC
+Name: Timeless, Year Premiered: 2016, EPISODES: 28, Network: NBC
+Name: Travelers, Year Premiered: 2016, EPISODES: 34, Network: Netflix
+Name: Necessary Roughness, Year Premiered: 2011, EPISODES: 38, Network: USA
+Name: Zoo, Year Premiered: 2015, EPISODES: 39, Network: CBS
+Name: B.J. and the Bear, Year Premiered: 1978, EPISODES: 46, Network: NBC
+Name: In Plain Sight, Year Premiered: 2008, EPISODES: 61, Network: USA
+Name: Covert Affairs, Year Premiered: 2010, EPISODES: 75, Network: USA
+Name: Star Trek, Year Premiered: 1966, EPISODES: 79, Network: NBC
+Name: White Collar, Year Premiered: 2009, EPISODES: 81, Network: USA
+Name: A-Team, Year Premiered: 1983, EPISODES: 98, Network: NBC
+Name: Ally McBeal, Year Premiered: 1997, EPISODES: 112, Network: Fox
+Name: Blossom, Year Premiered: 1990, EPISODES: 114, Network: NBC
+Name: Grimm, Year Premiered: 2011, EPISODES: 123, Network: NBC
+Name: Vampire Diaries, Year Premiered: 2009, EPISODES: 171, Network: CW
+Name: Charmed, Year Premiered: 1998, EPISODES: 178, Network: WB
+Name: Walker Texas Ranger, Year Premiered: 1993, EPISODES: 205, Network: CBS
+Name: Big Bang Theory, Year Premiered: 2007, EPISODES: 279, Network: CBS
+
+List of shows that lasted for 2 years:
+Name: Agent Carter, Year Premiered: 2015, Seasons: 2, Network: ABC
+Name: Timeless, Year Premiered: 2016, Seasons: 2, Network: NBC
+
+List of shows that have more than 100 episodes:
+Name: Ally McBeal, Seasons: 5, Episodes: 112
+Name: Blossom, Seasons: 5, Episodes: 114
+Name: Grimm, Seasons: 6, Episodes: 123
+Name: Vampire Diaries, Seasons: 8, Episodes: 171
+Name: Charmed, Seasons: 8, Episodes: 178
+Name: Walker Texas Ranger, Seasons: 9, Episodes: 205
+Name: Big Bang Theory, Seasons: 12, Episodes: 279
+
+Are there any shows that were aired on CBS?
+Yes! Walker Texas Ranger was aired on CBS
+
+Are there any shows that are in the fantasy category?
+No shows are fantasy
+BUILD SUCCESSFUL (total time: 0 seconds)
